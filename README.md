@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**AnirudhArunprasad/AnirudhArunprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##My name is Anirudh, I'm a student in the United States
 
-Here are some ideas to get you started:
+Electrical Engineering @ NC State  
+RTL Design - Digital Hardware - FPGA - Formal Verification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build hardware focused projects that use digital design and verification to solve mathematically interesting problems.
+
+Right now, I'm working on: 
+[FPGA Hadamard Matrix Solver](https://www.linkedin.com/in/anirudh-arunprasad/)
+
+Fun Facts:
+- Favorite food: Pad See Ew (Thai Stir Fried Noodle)
+- Favorite song: "Swing Lynn" By: Harmless
+- I like to go to the gym (Lifting & Bouldering)
+- I love pure math! 
+
+#Get In Touch!
+[LinkedIn](https://www.linkedin.com/in/anirudh-arunprasad/) - [Email](mailto:arunprasad.b.anirudh@gmail.com)
+
+
+
