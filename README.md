@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##My name is Anirudh, I'm a student in the United States
+## My name is Anirudh, I'm a student in the United States
 
 Electrical Engineering @ NC State  
 RTL Design - Digital Hardware - FPGA - Formal Verification
@@ -16,7 +16,7 @@ Fun Facts:
 - I like to go to the gym (Lifting & Bouldering)
 - I love pure math! 
 
-#Get In Touch!
+# Get In Touch!
 [LinkedIn](https://www.linkedin.com/in/anirudh-arunprasad/) - [Email](mailto:arunprasad.b.anirudh@gmail.com)
 
 
