@@ -8,7 +8,7 @@ RTL Design - Digital Hardware - FPGA - Formal Verification
 I build hardware focused projects that use digital design and verification to solve mathematically interesting problems.
 
 Right now, I'm working on: 
-[FPGA Hadamard Matrix Solver](https://www.linkedin.com/in/anirudh-arunprasad/)
+[FPGA Hadamard Matrix Solver](https://github.com/AnirudhArunprasad/Hadamard_Search)
 
 Fun Facts:
 - Favorite food: Pad See Ew (Thai Stir Fried Noodle)
